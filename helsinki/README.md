@@ -6,7 +6,7 @@
  - Annie Talvasto, [Student]()
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
-### Kubernetes 101 Hands-On Workshop
+### Kubernetes 101 Hands-On Workshop {#25032019}
 
  - Date: 25th of March, 2019 at 5pm - 8:30pm
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993/
